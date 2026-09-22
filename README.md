@@ -107,3 +107,7 @@ Defaulted to `Yaru-yellow-dark` to match the golden Buddhist relic accents.
 ## License
 
 MIT — see [LICENSE](LICENSE). Artworks and game trademarks © Game Science (游戏科学).
+
+---
+
+> This theme was made with the [omarchy-theme-skill](https://github.com/hongyangchun/omarchy-theme-skill) - the pipeline that sources art, builds palettes and ships the repo.
